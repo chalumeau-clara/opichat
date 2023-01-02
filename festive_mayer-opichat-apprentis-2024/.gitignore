@@ -1,0 +1,6 @@
+.clang-format
+opichat_client
+opichat_server
+given_client
+given_server
+testsuite

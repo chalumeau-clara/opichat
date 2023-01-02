@@ -1,0 +1,6 @@
+This is a project server developped by Clara CHALUMEAU & Mickael CHAU
+
+BUGFIXES
+- strstr is matching too many things
+  for example 'JOIN-ROOM*' command is matching for us but not for the given bin
+La room passé en parameters
